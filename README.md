@@ -36,3 +36,6 @@ https://genesis-testnet.yatespool.com
 4. Başlatma kodundaki "Worker001" istediğin gibi değiştirebilirsin
 
 5. Birden fazla sunucuda aynı cüzdan adresiyle kasabilirsin.
+
+6. Her şeyin doğru gittiğini nasıl anlarım? Aşağıdaki gibi çıktı alıyorsan, her şey tamamdır:
+   ![image](https://github.com/user-attachments/assets/04159de8-f931-432c-b21d-6c2b0402a385)
