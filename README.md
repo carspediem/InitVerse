@@ -6,6 +6,9 @@
 # Açtığın cüzdan ile faucetten token al
       https://faucet-testnet.iniscan.com/
 
+
+      Aşağıdaki işlemleri sunucuda yapıyoruz.
+
 #  Screen aç 
       screen -S init
 
